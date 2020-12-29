@@ -1,0 +1,24 @@
+{
+  "slug": "ring_bridge",
+  "name": "Ring Bridge",
+  "version": "1.0.0",
+  "url": "https://github.com/helmut-hoffer-von-ankershoffen/hassio-ring-bridge",
+  "stage": "stable",
+  "description": "Bridge to Ring devices. Possible use: Get/set mode of location on presence chance of residents. Built by Helmut Hoffer von Ankershoffen <https://helmut.hoffer-von-ankershoffen.me>",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "services",
+  "boot": "auto",
+  "ports": {
+    "8000/tcp": 8000
+  },
+  "ports_description": {
+    "8000/tcp": "Webservice API"
+  },
+  "map": [],
+  "options": {
+  	"refresh_token": "Generate by calling 'npx -p ring-client-api ring-auth-cli' on your Mac after installing npm"
+  },
+  "schema": {
+    "refresh_token": "str"
+  }
+}
