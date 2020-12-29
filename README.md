@@ -4,7 +4,7 @@ Ring Bridge for Home Assistant, exposing get/set of location mode. The Ring toke
 
 The bridge can be used to automatically set the Ring location mode based on automatic presence detection of residents to enable a mixed sensor and fully automatic alarming system at home such as the following.
 
-![alt text](https://raw.githubusercontent.com/helmut-hoffer-von-ankershoffen/hassio-ring-bridge/main/ring-bridge/dashboard.png "Automatic setting of Ring location mode based on automatic presence detection of residents.")
+![alt text](https://raw.githubusercontent.com/helmut-hoffer-von-ankershoffen/hassio-ring-bridge/master/ring-bridge/dashboard.png "Automatic setting of Ring location mode based on automatic presence detection of residents.")
 
 ## Installation
 
