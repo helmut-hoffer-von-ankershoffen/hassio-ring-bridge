@@ -1,7 +1,7 @@
 {
   "slug": "ring_bridge",
   "name": "Ring Bridge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/helmut-hoffer-von-ankershoffen/hassio-ring-bridge",
   "stage": "stable",
   "description": "Bridge to Ring devices. Possible use: Get/set mode of location on presence chance of residents. Built by Helmut Hoffer von Ankershoffen <https://helmut.hoffer-von-ankershoffen.me>",
