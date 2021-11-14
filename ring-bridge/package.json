@@ -1,6 +1,6 @@
 {
     "name": "ring_bridge",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Ring Bridge",
     "author": "Helmut Hoffer von Ankershoffen <https://helmut.hoffer-von-ankershoffen.me>",
     "main": "index.js",
